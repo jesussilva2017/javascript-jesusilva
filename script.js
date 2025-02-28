@@ -112,3 +112,72 @@ siguiente sintaxis
 5 x 9 = 45
 5 x 10 = 50
 */
+
+
+
+// 1. Imprime por consola un mensaje si el usuario y contraseña concide con unos establecidos
+
+// 2. Verifica si un número es positivo, negativo o cero e imprime un mensaje
+
+// 3. Verifica si una persona puede votar o no (mayor o igual a 18) e indica cuántos años le faltan
+
+// 4. Usa el operador ternario para asignar el valor "adulto" o "menor" a una variable
+//    dependiendo de la edad 
+
+
+//SWITCH
+
+// EJERICIO 1: Realizar un programa que detemine que dia de la semana corresonde hoy, utilizando la funcion Prompt
+
+
+
+/*
+const dia= new Date().getDay()
+
+
+switch (dia) {
+
+    case 1:
+    console.log("¡Hoy es lunes formacion con Gonzalo! 😢")
+    break
+
+    case 1:
+    console.log("¡Hoy es martes formacion con Jesus! 😢")
+    break
+
+    case 3:
+    console.log("¡Hoy es Miercoles formacion con Gonzalo! 😢")
+    break
+
+    case 4:
+    console.log("¡Hoy es jueves formacion con Emeson! 😢")
+    break
+
+    case 5:
+    console.log("¡Hoy es viernes formacion con Jesus! 😢")
+    break
+
+    case 6:
+    console.log("¡Hoy es sabado de descanso! 😢")
+    break
+
+    case 0:
+    console.log("¡Hoy es domingo de descanso! 😢")
+    break
+    
+
+  default:
+    console.log("no corresponde al dia de la semana! 🚀")
+    break
+}
+*/
+
+/*
+Utilizando la estrutura switch realizar el siguiente ejercicio:
+
+el usuario digite nombre y edad con la siguiente de verificacion
+
+1 a 18 años es joven
+19 a 40 años es adulto
+41 a 60 años es maduro
+61 en adelante es anciano*/
